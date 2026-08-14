@@ -1,0 +1,1 @@
+# Solutions — Private\n\nSolutions to adyen-senior-cicd-prep exercises.\n\nAdd solutions here as you complete each day.\n\nStructure mirrors the main repo:\n```\nweek-01/day-01/solution.py\nweek-01/day-02/solution.py\n...\n```
