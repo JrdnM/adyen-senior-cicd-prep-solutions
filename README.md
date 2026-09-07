@@ -1,19 +1,27 @@
-# Solutions — Private
+# Interview Prep
 
-Solutions to adyen-senior-cicd-prep exercises.
+Self-paced technical interview preparation, organised as short daily exercises
+with worked solutions.
 
-Add solutions here as you complete each day.
+## Structure
 
-Structure mirrors the main repo:
+Each track is a directory of weeks, and each week is five days. A day holds the
+exercise brief and its reference solution:
 
 ```
-week-01/day-01/solution.py
-week-01/day-02/solution.py
-...
+<track>/week-01/day-01/README.md     exercise brief
+<track>/week-01/day-01/solution.*    reference solution
 ```
 
-## Also in this repo
+## Tracks
 
-[`linux-sysadmin-prep/`](linux-sysadmin-prep/) — a self-contained 40-day
-beginner-to-intermediate Linux system administration curriculum, laid out in the
-same `week-NN/day-NN/` structure.
+| Track | Focus |
+| --- | --- |
+| [`linux-sysadmin-prep/`](linux-sysadmin-prep/) | 40-day beginner-to-intermediate Linux system administration |
+
+## How to use this
+
+1. Read the day's brief and attempt it yourself first.
+2. Only then open the solution.
+3. Keep your own notes of anything you had to look up — that list is the real
+   output of the work.
